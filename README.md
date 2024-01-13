@@ -1,1 +1,5 @@
-This is an implementation of GoogLENet.
+# GoogLENet
+
+## Overview
+
+This repository contains code for an implementation of GoogLENet.
